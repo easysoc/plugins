@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <plugin id="org.easysoc.test" url="untitled22-1.4.zip" version="1.4">
+  <plugin id="org.easysoc.chisel" url="https://github.com/easysoc/plugins/releases/download/stable/easysoc-chisel-1.0.zip" version="1.0">
      <name>easysoc</name>
     <idea-version since-build="193.5233" until-build="201.*"/>
   </plugin>
