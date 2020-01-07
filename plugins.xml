@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
   <plugin id="org.easysoc.chisel" url="https://github.com/easysoc/plugins/releases/download/stable/easysoc-chisel-1.0.zip" version="1.0">
-     <name>EasySoC Chise</name>
+     <name>EasySoC Chisel</name>
      <description>
       My plugin is awesome
    </description>
