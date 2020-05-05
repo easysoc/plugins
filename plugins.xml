@@ -3,8 +3,11 @@
   <plugin id="org.easysoc.chisel" url="https://github.com/easysoc/plugins/releases/download/stable/easysoc-chisel-1.0.0.zip" version="1.0.0">
      <name>EasySoC Chisel</name>
      <description>
-      My plugin is awesome
-   </description>
+     <![CDATA[
+    Chisel plugin for EasySoC CHIP.<br>
+    Bringing Agile Hardware Development to the Masses.
+    ]]> 
+     </description>
     <idea-version since-build="193.5233" until-build="203.*"/>
   </plugin>
 </plugins>
