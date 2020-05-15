@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
+ <!-- 同样的版本这里优先级高
   <plugin id="org.easysoc.chisel" url="https://github.com/easysoc/plugins/releases/download/stable/easysoc-chisel-1.0.0.zip" version="1.0.0">
      <name>EasySoC Chisel</name>
      <description>
@@ -10,4 +11,5 @@
      </description>
     <idea-version since-build="193.5233" until-build="203.*"/>
   </plugin>
+-->
 </plugins>
