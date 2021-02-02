@@ -12,4 +12,14 @@
     <idea-version since-build="193.5233" until-build="203.*"/>
   </plugin>
 -->
+  <plugin id="studio.edaphic.sv" url="https://github.com/easysoc/plugins/releases/download/stable/SystemVerilog-2020.2.3.zip" version="2020.2.3">
+     <name>SystemVerilog</name>
+     <description>
+     <![CDATA[
+    Full SystemVerilog (and Verilog) support, including resolving macros and checking underlying code as well as parsing of the UVM library.
+    Features syntax error detection, code completion, navigation, structure view, inspections, variable rename, parameter hinting and more.
+    ]]> 
+     </description>
+    <idea-version since-build="201.6487" until-build="203.*"/>
+  </plugin>
 </plugins>
